@@ -80,22 +80,22 @@ eNotes is a web application designed to simplify and organize note-taking for us
 - CSRF protection enabled.
 - Role-based access control (Admin/User).
 
-## 🎨 Screenshots (Optional)
+## 🎨 Screenshots
 
-- Home Page.
-  ![home](img/home'.png)
+### Home Page.
+- ![home](img/home'.png)
 
-- Registration Page.
-  ![Registration](img/resigration.png)
+### Registration Page.
+-  ![Registration](img/resigration.png)
 
-- Log in Page.
-  ![Login](img/login.png)
+### Log in Page.
+-  ![Login](img/login.png)
 
-- Adding Notes.
-  ![Add notes](img/adding.png)
+### Adding Notes.
+-  ![Add notes](img/adding.png)
 
-- View/Edit/Delete Notes.
-  ![CRUD](list.png)
+### View/Edit/Delete Notes.
+-  ![CRUD](img/list.png)
 
 ## 🤝 Contributing
 
@@ -108,5 +108,5 @@ This project is licensed under the [Your License Name] - see the [LICENSE](LICEN
 ## 📧 Contact
 
 For any queries, feel free to reach out:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+- **Name**: Nikhil Keshri
+- **Email**: nikhilkeshri2213@gmail.com
